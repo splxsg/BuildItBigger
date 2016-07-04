@@ -11,8 +11,6 @@ import android.view.View;
 import android.content.Context;
 import android.widget.ProgressBar;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends AppCompatActivity {
 
